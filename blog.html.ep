@@ -14,7 +14,8 @@
 	
 
     <script src="/scripts/vendor/modernizr.js"></script>
-    <script src="/scripts/jquery.js"></script>
+/*    <script src="/scripts/jquery.js"></script>*/
+	<script src="/scripts/vendor.js"></script>
     <script src="/scripts/jquery.flexslider-min.js" defer></script>
     <script src="/scripts/isotope.js" defer></script>
     <script src="/scripts/script-blog.js"></script>
@@ -46,7 +47,7 @@ var $jq = jQuery.noConflict();
    
   
 
-    <script src="/scripts/vendor.js"></script>
+    
    <script src="/scripts/main_trc.js"></script>
   </body>
 </html>
